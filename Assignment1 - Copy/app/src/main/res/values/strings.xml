@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment 1</string>
+
+    <string-array name="fitness_type">
+        <item>Cardiovascular Fitness</item>
+        <item>Anaerobic Fitness</item>
+        <item>Joint Flexibility</item>
+        <item>Muscular Strength</item>
+    </string-array>
+
+
+    <string name="PamelaHIIT">https://www.youtube.com/watch?v=zr08J6wB53Y</string>
+    <string name="EmiWongWalkingCardio">https://www.youtube.com/watch?v=ow3hpYJqYEI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
